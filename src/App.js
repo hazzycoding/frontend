@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React hasini
+          Learn React hasini my testing finished
         </a>
       </header>
     </div>
